@@ -1,2 +1,2 @@
-# First
-第一个库
+# First   
+hello,guys,i am be beginer of github.
