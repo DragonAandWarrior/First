@@ -1,2 +1,2 @@
 # First   
-hello,guys,i am be beginer of github.
+hello,guys,i am a beginer of github.
